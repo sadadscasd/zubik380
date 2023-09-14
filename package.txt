@@ -1,3 +1,3 @@
 author: Zabarov&Churkin
 name:package
-version:8.800.555.35.35
+version:8.800.555.35.35.35.35.35.35.35.35.35.3.5
